@@ -1,1 +1,2 @@
-# SemanticHTML_Project3
+# Semantic HTML
+Implentaion of the Project 3
